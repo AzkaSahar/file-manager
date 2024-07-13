@@ -1,0 +1,2 @@
+Operating systems are software systems that serve as an intermediary between computer hardware and applications . They manage hardware resources and provide common services for computer programs . Key functions of an operating system include managing the computer's memory , allocating time and resources to processes , handling input and output devices, and ensuring system security and stability . Popular examples of operating systems include Microsoft Windows , macOS , Linux , and Unix .
+

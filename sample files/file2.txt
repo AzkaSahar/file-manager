@@ -1,0 +1,2 @@
+Process management is a core function of an operating system . It involves creating and deleting both user and system processes . It also manages the states of processes as they execute , which includes running , waiting , and stopped states . Process management responsibilities include process scheduling , which is crucial for multitasking and determines the order in which processes access the computer's CPU . Effective process management improves system efficiency and responsiveness .
+

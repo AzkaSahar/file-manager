@@ -1,0 +1,2 @@
+The file system is a method and data structure that the operating system uses to control how data is stored and retrieved . By organizing data into files and directories , the file system provides a way to manage storage space on hard drives and other media . File systems can differ in their structure, logic, speed, size, and security capabilities. Common types of file systems include NTFS , FAT , ext3 , and ext4 . Storage management also involves the principles of redundancy , consistency , and backup to protect data integrity .
+
