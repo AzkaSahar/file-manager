@@ -1,5 +1,6 @@
 # file-manager
 # Operating System Course Project
+Made by group of 3 people
 
 This project implements various file manipulation and encryption/decryption functionalities using multithreading and synchronization mechanisms in C. Below is an overview of the project and instructions on how to use it.
 
